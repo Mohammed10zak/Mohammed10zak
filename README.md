@@ -4,7 +4,7 @@
 
 I am Mohammed Zaqout, a talented Front-End web developer adept at contributing to a highly collaborative work environment, finding solutions and determining customer satisfaction. I design and develop web applications across multiple APIs,  I am currently focusing on learning Computer Science topics (DSA, Data Science, Design Patterns, System Design, ...).
 . 🤔   Exploring new technologies and developing websites.
-. 🌱   Keep Learning about Frontend Developement.
+. 🌱   Keep Learning about Frontend development.
 <br />
 
 
@@ -28,7 +28,7 @@ I am Mohammed Zaqout, a talented Front-End web developer adept at contributing t
 <h2 align="center">Let's Connect 😎</h2>
 <p align="center">
   <a href = "mohammedzakkh@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
-  <a href = "https://www.linkedin.com/in/mohammedzaqout/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
+  <a href = "https://www.linkedin.com/in/mohammedzaqoutt/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
 </p>
 
 
